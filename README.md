@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with flutter framework and programming basics
 - 💬 Ask me about programming 
 - 📫 How to reach me: mokhalidelenany@gmail.com / https://www.linkedin.com/in/mohamed-khaled22/
-<!--
-**mohamedKhalid1/mohamedKhalid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
